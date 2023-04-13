@@ -415,12 +415,14 @@ section,
   }
 
   .nav-list li {
-    width: 100%;
+    width: 50%;
+    display: none;
     text-align: center;
   }
 
   .nav-list a {
-    display: block;
-    padding: .1em;
+    display:flex;
+    padding: 1x;
+  justify-content:space-between;
   }
 }
