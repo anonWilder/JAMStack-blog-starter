@@ -1,6 +1,6 @@
 ---
 title: My Fifth Article
-author: Kevin Powell
+author: "Egbonu Kenechukwu"
 date: 2021-06-15
 tags: ["post", "featured"]
 image: /assets/blog/article-5.jpg

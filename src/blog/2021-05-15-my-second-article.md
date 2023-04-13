@@ -1,6 +1,6 @@
 ---
 title: My Second Article
-author: Kevin Powell
+author: "Egbonu Kenechukwu"
 date: 2021-05-15
 tags: ["post", "featured"]
 image: /assets/blog/article-2.jpg
