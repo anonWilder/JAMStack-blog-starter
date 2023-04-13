@@ -5,8 +5,8 @@
   --fs-600: 1.875rem;
   --fs-700: 2rem;
 
-  --ff-body: "Roboto", sans-serif;
-  --ff-heading: "Playfair Display", serif;
+  --ff-body: "poppins", sans-serif;
+  --ff-heading: "poppins", serif;
 
   --fw-400: 400;
   --fw-700: 700;
@@ -14,7 +14,7 @@
 
   --clr-primary-200: hsla(169, 70%, 95%, 1);
   --clr-primary-300: hsla(169, 100%, 39%, 1);
-  --clr-primary-400: hsla(169, 100%, 26%, 1);
+  --clr-primary-400: rgb(0, 0, 0);
   --clr-primary-500: hsla(169, 100%, 16%, 1);
 
   --clr-neutral-100: hsla(0, 0%, 100%, 1);
@@ -43,6 +43,7 @@
 *::before,
 *::after {
   box-sizing: border-box;
+  color: black;
 }
 
 /* Remove default margin */
