@@ -153,6 +153,10 @@ section,
    and add margin to the top for proper
    spacing */
 
+.pointer{
+  cursor: pointer;
+}
+
 .flow>*:where(:not(:first-child)) {
   margin-top: var(--flow-spacer, 1em);
 }
@@ -203,7 +207,7 @@ section,
 
 .page-header__content {
   display: flex;
-  justify-content: space-between;
+  justify-content:space-between;
 }
 
 .nav-list {
