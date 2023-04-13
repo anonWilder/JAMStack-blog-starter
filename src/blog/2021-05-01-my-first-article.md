@@ -14,7 +14,7 @@ tags:
   - featured
   - post
   - tech
-ImageAlt: man on laptop
+ImageAlt: Man on laptop
 ---
 As a writer who wants to earn with his/her skills in either technical, creative or copy writing, at times it can be very exhausting and confusing when going in search of jobs. This article has been compiled to dymystify writing gigs and where and how to get them. This article seeks to prepare you for all you need to land your first paying writing gig in the tech industry. The following are the steps to follow assuming you already have the necessary skills of writing.:
 
