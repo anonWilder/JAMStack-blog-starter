@@ -4,14 +4,7 @@ description: Social media has become an integral part of modern-day life, with
   billions of people across the globe using various social media platforms.
   While social media provides an avenue for people to connect with others, share
   their experiences, and access information, it also has significant
-  implications for mental health. This article provides a review of existing
-  literature on the impact of social media on mental health, including the
-  positive and negative effects on users. The article also discusses the
-  mechanisms underlying the relationship between social media use and mental
-  health, such as the impact of social comparison, cyberbullying, and the
-  potential benefits of social support. The findings highlight the need for
-  further research and awareness campaigns to promote responsible social media
-  use and reduce the negative impact on mental health.
+  implications for mental health.
 author: Egbonu Kenechukwu
 date: 2023-04-13T21:26:12.268Z
 image: https://plus.unsplash.com/premium_photo-1661727343144-076f16a8c076?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8U29jaWFsJTIwTWVkaWElMjBvbiUyME1lbnRhbCUyMEhlYWx0aHxlbnwwfDB8MHx8&auto=format&fit=crop&w=400&q=60
