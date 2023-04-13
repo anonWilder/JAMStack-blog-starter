@@ -10,7 +10,6 @@ date: 2023-04-13T19:19:27.088Z
 image: https://miro.medium.com/v2/resize:fit:640/format:webp/1*QJnvahq_EBdUGjYQUYrhvA.png
 tags:
   - post
-  - featured
   - tech
 ImageAlt: MongoDB
 ---
