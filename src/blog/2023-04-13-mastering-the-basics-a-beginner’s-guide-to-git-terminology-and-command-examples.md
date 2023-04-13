@@ -10,6 +10,7 @@ date: 2023-04-13T19:21:45.684Z
 image: https://miro.medium.com/v2/resize:fit:640/format:webp/1*r_QLp704sypbwswYM8yNww.png
 tags:
   - post
+  - tech
 ImageAlt: Git and Github
 ---
 Git and GitHub are essential tools for developers and teams working on software projects. In this article, we’ll define some common Git and GitHub terms and commands with code examples to help you understand how they work and how they can be used to collaborate on code.
