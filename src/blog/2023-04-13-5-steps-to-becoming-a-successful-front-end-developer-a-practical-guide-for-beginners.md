@@ -11,6 +11,8 @@ image: https://miro.medium.com/v2/resize:fit:640/0*BVYQG6Z4DdzE0mlB
 tags:
   - post
   - featured
+  - tech
+  - academic
 ImageAlt: Typing on keyboard
 ---
 Hello guys, my name is Egbonu Kenechukwu, i am a Front-end Web developer and also a software engineering student at Alx _Africa as at the time of publication of this article. I transitioned into Tech from the Education Industry on the 21st of July, 2022. Are you interested in pursuing a career as a junior front end web developer? If so, you’re in the right place. In this article, we’ll go over the key steps you need to take in order to become a successful junior front end web developer.
