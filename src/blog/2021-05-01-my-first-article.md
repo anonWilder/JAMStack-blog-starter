@@ -1,6 +1,5 @@
 ---
 author: Egbonu Kenechukwu
- imageAlt:
 title: "How to Find Writing Jobs: A Comprehensive Guide for Freelance Writers"
 description: "As a writer who wants to earn with his/her skills in either
   technical, creative or copy writing, at times it can be very exhausting and
