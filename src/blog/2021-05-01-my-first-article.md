@@ -1,8 +1,8 @@
 ---
 author: Egbonu Kenechukwu
 imageAlt: This is a test
-title: My First Article
-description: "How to Find Writing Jobs: A Comprehensive Guide for Freelance Writers"
+title: "How to Find Writing Jobs: A Comprehensive Guide for Freelance Writers"
+description: How to Find Writing Jobs
 date: 2023-04-13T17:16:37.623Z
 image: https://miro.medium.com/v2/resize:fit:640/0*RrVuVCdC5zR7-np4
 tags:
