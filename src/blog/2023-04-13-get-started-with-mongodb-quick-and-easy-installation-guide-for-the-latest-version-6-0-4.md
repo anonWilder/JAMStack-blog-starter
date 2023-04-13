@@ -4,12 +4,7 @@ title: "Get Started with MongoDB: Quick and Easy Installation Guide for The
 description: " MongoDB, otherwise known as MongoDataBase is a popular and
   powerful open-source NoSQL database developed by a company called MongoDB,
   Inc., which was founded in 2007 by Dwight Merriman, Eliot Horowitz, and Kevin
-  Ryan. The initial release of MongoDB was in 2009. Since then, MongoDB has
-  become one of the most popular NoSQL databases, with a vibrant community of
-  developers and users around the world. This NoSQL database provides flexible
-  and scalable data storage solutions. It is designed to handle large amounts of
-  unstructured data, which makes it an ideal choice for modern web and mobile
-  applications that require a dynamic and scalable database backend."
+  Ryan. The initial release of MongoDB was in 2009."
 author: Egbonu Kenechukwu
 date: 2023-04-13T19:19:27.088Z
 image: https://miro.medium.com/v2/resize:fit:640/format:webp/1*QJnvahq_EBdUGjYQUYrhvA.png
