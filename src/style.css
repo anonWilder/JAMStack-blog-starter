@@ -59,8 +59,6 @@ dl,
 dd {
   margin: 0;
   text-align: justify;
-  max-width: 800px; /* adjust this to your desired width */
-    margin: 0 auto;
 }
 
 /* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
@@ -293,8 +291,6 @@ section,
   margin: 1rem 0;
   font-size: var(--fs-300);
   opacity: .9;
-  max-width: 800px; /* adjust this to your desired width */
-    margin: 0 auto;
 }
 
 /* //////////////////////
