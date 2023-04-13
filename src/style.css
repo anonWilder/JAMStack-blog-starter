@@ -421,6 +421,6 @@ section,
 
   .nav-list a {
     display: block;
-    padding: 1em;
+    padding: .1em;
   }
 }
