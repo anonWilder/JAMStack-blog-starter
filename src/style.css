@@ -403,3 +403,59 @@ section,
   color: var(--clr-neutral-100);
   background-color: var(--clr-neutral-900);
 }
+
+
+
+
+
+
+@media screen and (max-width: 575px) {
+  .navbar .container {
+    margin-right: 12px;
+    margin-left: 12px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  h1 {
+    font-size: 40px;
+  }
+
+  h2 {
+    font-size: 28px;
+  }
+
+  h3 {
+    font-size: 26px;
+  }
+
+  h4 {
+    font-size: 22px;
+  }
+
+  h5 {
+    font-size: 20px;
+  }
+
+  .custom-btn,
+  .navbar .custom-btn {
+    font-size: 13px;
+    padding: 6px 12px;
+  }
+
+  .navbar-icon {
+    font-size: var(--copyright-font-size);
+    width: 35.5px;
+    height: 35.5px;
+    line-height: 35.5px;
+  }
+
+  .hero-image-wrap {
+    width: 300px;
+    height: 300px;
+  }
+
+  .hero-image {
+    min-width: inherit;
+  }
+}
