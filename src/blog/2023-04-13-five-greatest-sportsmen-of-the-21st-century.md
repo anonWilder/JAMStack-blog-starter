@@ -10,6 +10,7 @@ date: 2023-04-13T22:12:26.700Z
 image: https://www.si.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTY4MTg5NDQzOTkyNTI4Nzk3/28-usain-bolt-2008-fsjpg.jpg
 tags:
   - post
+  - sports
 ImageAlt: usain bolt
 ---
 The 21st century has witnessed some of the most incredible feats of athleticism and sportsmanship in history. From breaking world records to winning multiple titles, these sportsmen have dominated their respective fields and inspired millions of fans. Here are five of the greatest sportsmen of the 21st century:
