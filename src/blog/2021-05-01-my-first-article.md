@@ -2,7 +2,12 @@
 author: Egbonu Kenechukwu
 imageAlt: This is a test
 title: "How to Find Writing Jobs: A Comprehensive Guide for Freelance Writers"
-description: How to Find Writing Jobs
+description: "As a writer who wants to earn with his/her skills in either
+  technical, creative or copy writing, at times it can be very exhausting and
+  confusing when going in search of jobs. This article has been compiled to
+  dymystify writing gigs and where and how to get them. This article seeks to
+  prepare you for all you need to land your first paying writing gig in the tech
+  industry. "
 date: 2023-04-13T17:16:37.623Z
 image: https://miro.medium.com/v2/resize:fit:640/0*RrVuVCdC5zR7-np4
 tags:
@@ -102,5 +107,3 @@ Pitching directly to clients is a proactive approach to finding writing jobs. Id
 # Conclusion
 
 In conclusion, finding writing jobs as a freelance writer requires patience, persistence, and a strategic approach. By creating a portfolio, using freelance job boards, networking on social media, joining writing communities, and pitching directly to clients, you can increase your chances of finding high-paying writing gigs and building a successful writing career.
-
-<!--EndFragment-->
