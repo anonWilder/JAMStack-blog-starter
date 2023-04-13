@@ -153,7 +153,7 @@ section,
    and add margin to the top for proper
    spacing */
 
-.flow > *:where(:not(:first-child)) {
+.flow>*:where(:not(:first-child)) {
   margin-top: var(--flow-spacer, 1em);
 }
 
@@ -238,7 +238,7 @@ section,
   Homepage
   /////////////////////// */
 
-.hero > div {
+.hero>div {
   display: grid;
   grid-auto-flow: row;
   grid-auto-columns: 1fr;
@@ -248,12 +248,19 @@ section,
 
 .hero__image {
   width: 100%;
-  /* max-height: max(15rem, 40vh); */
+  max-height: max(15rem, 40vh);
   object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 13px 27px -5px #32325d40, 0 8px 16px -8px #0000004d, 0 -6px 16px -6px #00000008;
+  height: auto;
+  max-width: 100%;
+ 
 }
 
+
+
 @media (min-width: 45em) {
-  .hero > div {
+  .hero>div {
     grid-auto-flow: column;
   }
 }
@@ -271,15 +278,15 @@ section,
   Individual article page
   /////////////////////// */
 
-  .main-article {
-    margin-bottom: 3rem;
-  }
+.main-article {
+  margin-bottom: 3rem;
+}
 
-  .main-article__figure figcaption {
-    margin: 1rem 0;
-    font-size: var(--fs-300);
-    opacity: .9;
-  }
+.main-article__figure figcaption {
+  margin: 1rem 0;
+  font-size: var(--fs-300);
+  opacity: .9;
+}
 
 /* //////////////////////
   Article snippets
@@ -301,10 +308,15 @@ section,
   width: 100%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 13px 27px -5px #32325d40, 0 8px 16px -8px #0000004d, 0 -6px 16px -6px #00000008;
+  max-height: max(15rem, 40vh);
 }
+
 .snippet__title {
   grid-area: title;
 }
+
 .snippet__meta {
   grid-area: meta;
   color: var(--clr-neutral-300);
@@ -331,7 +343,7 @@ section,
 .snippet__title a:hover,
 .snippet__title a:focus {
   color: var(--clr-primary-500);
-} 
+}
 
 @media (min-width: 45em) {
   .snippet {
@@ -368,10 +380,11 @@ section,
   font-weight: var(--fw-700);
   border: 2px solid var(--clr-primary-400);
 }
+
 .btn--primary:hover,
 .btn--primary:focus {
   background: var(--clr-primary-500);
-  border-color: var(--clr-primary-500); 
+  border-color: var(--clr-primary-500);
 }
 
 .btn--neutral {
